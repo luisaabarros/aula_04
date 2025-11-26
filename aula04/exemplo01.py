@@ -38,13 +38,13 @@
 # else:
 #     print('Não tem direito a brinde.')
 
-nota = float(input('Informe sua nota: '))
-frequencia = float(input('Informe sua frequencia: '))
+# nota = float(input('Informe sua nota: '))
+# frequencia = float(input('Informe sua frequencia: '))
 
-if nota >= 7:
-    if frequencia >= 75:
-        print('Aprovado.')
-    else:
-        print('Reprovado por falta.')
-else:
-    print('Reprovado por nota.')
+# if nota >= 7:
+#     if frequencia >= 75:
+#         print('Aprovado.')
+#     else:
+#         print('Reprovado por falta.')
+# else:
+#     print('Reprovado por nota.')
