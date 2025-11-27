@@ -14,11 +14,11 @@
 
 # ATIVIDADE 2
 
-estoque = 50
-quant_solicitada = int(input('Quantidade solicitada: '))
-peso = quant_solicitada * 2
+# estoque = 50
+# quant_solicitada = int(input('Quantidade solicitada: '))
+# peso = quant_solicitada * 2
 
-if quant_solicitada <= estoque and peso <= 50:
-    print(f'Pedido realizado!')
-else:
-    print(f'Pedido não pode ser enviado')
+# if quant_solicitada <= estoque and peso <= 50:
+#     print(f'Pedido realizado!')
+# else:
+#     print(f'Pedido não pode ser enviado')
